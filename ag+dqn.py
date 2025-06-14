@@ -3,17 +3,6 @@
 
 !pip install torch matplotlib numpy
 
-import numpy as np
-import matplotlib.pyplot as plt
-import random
-import torch
-import torch.nn as nn
-import torch.optim as optim
-import pandas as pd
-import matplotlib.pyplot as plt
-
-from google.colab import files
-uploaded = files.upload()
 
 import numpy as np
 import torch
